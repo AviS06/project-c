@@ -1,5 +1,5 @@
 
-int main() {
+main() {
 	biggest2();
 	factorial();
 	reverse();
@@ -8,5 +8,5 @@ int main() {
 	sum2();
 	fibonacci();
 	sort();
-return 0 ;
+
 }       
